@@ -1,0 +1,52 @@
+﻿
+#include <iostream>
+using namespace std;
+int main()
+{
+//	cout << "Eded daxil edin: ";
+//	int num;
+//	cin >> num;
+//	for (int i = 0; i<num;i++)
+//	{
+//		for (int j = 0; j < num;j++)
+//		{
+//			cout <<"*";
+//		}
+//		cout << endl;
+//	}
+
+
+
+	//cout << "Eded daxil ediN:";
+	// int num;
+	// cin >> num;
+	//for (int i = 0;i < num; i++)
+	//{
+	//	for (int j = 0; j < num; j++)
+	//	{
+	//	if (i == 0 || i == num- 1)
+	//		cout << "*";
+	//		else if (j == 0 || j == num- 1)
+	//			cout <<"*";
+	//		else
+	//			cout <<" ";
+	//	}
+	//	cout << endl;
+	//}
+
+	//cout << "eded daxil edin: ";
+	//int num;
+	//cin >> num;
+	//for (int i = 0; i < num; i++)
+	//{
+	//	for (int j = 0; j < num; j++)
+	//	{
+	//		if (i == 0 || i == num - 1 || i == (num- 1) / 2)
+	//			cout << "*";
+	//		else if (j == 0 || j == num - 1 || j == (num - 1) / 2)
+	//			cout << "*";
+	//		else
+	//			cout <<" ";
+	//	}
+	//	cout << endl;
+	//}
